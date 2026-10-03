@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI - Smart Budget & Recommendation Assistant",
+  "description": "AI-powered cross-platform budget planning and personalized recommendations for home decor, event planning, and jewelry shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
